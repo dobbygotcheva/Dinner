@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe.config
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\bin\Debug\DinerGUI.pdb
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.OrderGUI.resources
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.exe
+C:\Users\Admin\Desktop\DinerGUI\DinerGUI\obj\Debug\DinerGUI.pdb
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe.config
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\bin\Debug\DinerGUI.pdb
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.OrderGUI.resources
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.exe
+C:\Users\Admin\Desktop\AUBG\INF130_Basics in C# Programing\Lesson 9-Week 9\DinerGUI\DinerGUI\obj\Debug\DinerGUI.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe.config
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\bin\Debug\DinerGUI.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.OrderGUI.resources
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.Properties.Resources.resources
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.GenerateResource.Cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.exe
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.pdb
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.AssemblyReference.cache
+D:\AUBG\INF130_Basics in C# Programing\Lesson 8-Week 8\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.CoreCompileInputs.cache
